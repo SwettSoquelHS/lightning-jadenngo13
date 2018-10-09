@@ -48,7 +48,7 @@ void lightning(float[] c) {
     line(startX, startY, endX, endY);
     startX = endX;
     startY = endY;
-    x-=5;
+    x-=2;
   }
 }
 
