@@ -32,7 +32,7 @@ void lightning() {
     line(startX, startY, endX, endY);
     startX = endX;
     startY = endY;
-    x-=2;
+    x-=5;
   }
 }
 
